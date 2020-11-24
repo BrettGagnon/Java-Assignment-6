@@ -1,0 +1,144 @@
+Brett Gagnon
+Assignment 6 - Intro to Java
+10/20/2018
+
+IDE Run-time Output:
+
+run:
+Enter a list of shapes - 'done' to end
+
+Enter the shape's color (or 'done')...
+red
+Enter shape type...
+circle
+Enter the radius...
+3.0
+
+Enter the shape's color (or 'done')...
+blue
+Enter shape type...
+square
+Enter the length of a side...
+4.0
+
+Enter the shape's color (or 'done')...
+green
+Enter shape type...
+rectangle
+Enter the length and width...
+3.0
+2.0
+
+Enter the shape's color (or 'done')...
+blue
+Enter shape type...
+circle
+Enter the radius...
+2.0
+
+Enter the shape's color (or 'done')...
+red
+Enter shape type...
+rectangle
+Enter the length and width...
+8.0
+2.0
+
+Enter the shape's color (or 'done')...
+green
+Enter shape type...
+circle
+Enter the radius...
+1.0
+
+Enter the shape's color (or 'done')...
+red
+Enter shape type...
+square
+Enter the length of a side...
+2.0
+
+Enter the shape's color (or 'done')...
+done
+
+The list of shapes entered...
+  red Circle with radius of 3.0 and area of 28.27431
+  blue Square with a length of 4.0 with area of 16.0
+  green Rectangle with a length of 2.0 and a width of 3.0 with area of 6.0
+  blue Circle with radius of 2.0 and area of 12.56636
+  red Rectangle with a length of 2.0 and a width of 8.0 with area of 16.0
+  green Circle with radius of 1.0 and area of 3.14159
+  red Square with a length of 2.0 with area of 4.0
+
+Sorting shapes into order by area...
+
+The sorted list of shapes...
+  green Circle with radius of 1.0 and area of 3.14159
+  red Square with a length of 2.0 with area of 4.0
+  green Rectangle with a length of 2.0 and a width of 3.0 with area of 6.0
+  blue Circle with radius of 2.0 and area of 12.56636
+  blue Square with a length of 4.0 with area of 16.0
+  red Rectangle with a length of 2.0 and a width of 8.0 with area of 16.0
+  red Circle with radius of 3.0 and area of 28.27431
+
+Done - press enter key to end program
+
+BUILD SUCCESSFUL (total time: 2 minutes 41 seconds)
+
+TEST #2
+
+run:
+Enter a list of shapes - 'done' to end
+
+Enter the shape's color (or 'done')...
+red
+Enter shape type...
+circle
+Enter the radius...
+5
+
+Enter the shape's color (or 'done')...
+blue
+Enter shape type...
+rectangle
+Enter the length and width...
+7.0
+2.0
+
+Enter the shape's color (or 'done')...
+green
+Enter shape type...
+square
+Enter the length of a side...
+1.0
+
+Enter the shape's color (or 'done')...
+green
+Enter shape type...
+square
+Enter the length of a side...
+4.0
+
+Enter the shape's color (or 'done')...
+done
+
+The list of shapes entered...
+  red Circle with radius of 5.0 and area of 78.53975
+  blue Rectangle with a length of 2.0 and a width of 7.0 with area of 14.0
+  green Square with a length of 1.0 with area of 1.0
+  green Square with a length of 4.0 with area of 16.0
+
+Sorting shapes into order by area...
+
+The sorted list of shapes...
+  green Square with a length of 1.0 with area of 1.0
+  blue Rectangle with a length of 2.0 and a width of 7.0 with area of 14.0
+  green Square with a length of 4.0 with area of 16.0
+  red Circle with radius of 5.0 and area of 78.53975
+
+Done - press enter key to end program
+
+BUILD SUCCESSFUL (total time: 55 seconds)
+
+
+
